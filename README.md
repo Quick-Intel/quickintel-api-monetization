@@ -1,0 +1,1 @@
+# quickintel-api-monetization
