@@ -57,5 +57,19 @@
                 "unitAmount": 39999
             }
         }
+    },
+    {
+        "id": "dexscrener",
+        "pricingModelType": "Tier",
+        "recurring": {
+            "interval": "month",
+            "intervalCount": 1
+        },
+        "prices": {
+            "unit": {
+                "currency": "usd",
+                "unitAmount": 39999
+            }
+        }
     }
 ]
