@@ -59,7 +59,7 @@
         }
     },
     {
-        "id": "dexscrener",
+        "id": "dexscreener",
         "pricingModelType": "Tier",
         "recurring": {
             "interval": "month",
