@@ -54,7 +54,6 @@
         "prices": {
             "unit": {
                 "currency": "usd",
-                "unitAmount": 39999
             }
         }
     },
@@ -67,8 +66,7 @@
         },
         "prices": {
             "unit": {
-                "currency": "usd",
-                "unitAmount": 39999
+                "currency": "usd"
             }
         }
     }
