@@ -43,31 +43,5 @@
                 "quota": 500
             }
         }
-    },
-    {
-        "id": "enterprise",
-        "pricingModelType": "Tier",
-        "recurring": {
-            "interval": "month",
-            "intervalCount": 1
-        },
-        "prices": {
-            "unit": {
-                "currency": "usd",
-            }
-        }
-    },
-    {
-        "id": "dexscreener",
-        "pricingModelType": "Tier",
-        "recurring": {
-            "interval": "month",
-            "intervalCount": 1
-        },
-        "prices": {
-            "unit": {
-                "currency": "usd"
-            }
-        }
     }
 ]
