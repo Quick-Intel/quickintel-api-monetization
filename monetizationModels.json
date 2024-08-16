@@ -25,7 +25,7 @@
             "unit": {
                 "currency": "usd",
                 "unitAmount": 7999,
-                "quota": 150
+                "quota": 50
             }
         }
     },
@@ -40,7 +40,22 @@
             "unit": {
                 "currency": "usd",
                 "unitAmount": 19999,
-                "quota": 500
+                "quota": 150
+            }
+        }
+    },
+    {
+        "id": "enterprise2",
+        "pricingModelType": "Tier",
+        "recurring": {
+            "interval": "month",
+            "intervalCount": 1
+        },
+        "prices": {
+            "unit": {
+                "currency": "usd",
+                "unitAmount": 49999,
+                "quota": 250
             }
         }
     }
