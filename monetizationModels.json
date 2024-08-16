@@ -45,7 +45,7 @@
         }
     },
     {
-        "id": "enterprise2",
+        "id": "enterprise",
         "pricingModelType": "Tier",
         "recurring": {
             "interval": "month",
