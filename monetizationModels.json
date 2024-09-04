@@ -45,7 +45,7 @@
         }
     },
     {
-        "id": "enterprise2",
+        "id": "businessplus",
         "pricingModelType": "Tier",
         "recurring": {
             "interval": "month",
@@ -55,6 +55,36 @@
             "unit": {
                 "currency": "usd",
                 "unitAmount": 49999,
+                "quota": 200
+            }
+        }
+    },
+    {
+        "id": "businessultra",
+        "pricingModelType": "Tier",
+        "recurring": {
+            "interval": "month",
+            "intervalCount": 1
+        },
+        "prices": {
+            "unit": {
+                "currency": "usd",
+                "unitAmount": 74999,
+                "quota": 250
+            }
+        }
+    },
+    {
+        "id": "enterprise2",
+        "pricingModelType": "Tier",
+        "recurring": {
+            "interval": "month",
+            "intervalCount": 1
+        },
+        "prices": {
+            "unit": {
+                "currency": "usd",
+                "unitAmount": 99999,
                 "quota": 250
             }
         }
