@@ -3,16 +3,22 @@
         "id": "test"
     },
     {
+        "id": "api-starter"
+    },
+    {
+        "id": "api-team"
+    },
+    {
+        "id": "api-premium"
+    },
+    {
+        "id": "api-business"
+    },
+    {
         "id": "starter"
     },
     {
         "id": "business"
-    },
-    {
-        "id": "businessplus"
-    },
-    {
-        "id": "businessultra"
     },
     {
         "id": "enterprise2"
