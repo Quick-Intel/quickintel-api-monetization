@@ -15,6 +15,66 @@
         }
     },
     {
+        "id": "api-starter",
+        "pricingModelType": "Tier",
+        "recurring": {
+            "interval": "month",
+            "intervalCount": 1
+        },
+        "prices": {
+            "unit": {
+                "currency": "usd",
+                "unitAmount": 7999,
+                "quota": 50
+            }
+        }
+    },
+    {
+        "id": "api-team",
+        "pricingModelType": "Tier",
+        "recurring": {
+            "interval": "month",
+            "intervalCount": 1
+        },
+        "prices": {
+            "unit": {
+                "currency": "usd",
+                "unitAmount": 19999,
+                "quota": 150
+            }
+        }
+    },
+    {
+        "id": "api-premium",
+        "pricingModelType": "Tier",
+        "recurring": {
+            "interval": "month",
+            "intervalCount": 1
+        },
+        "prices": {
+            "unit": {
+                "currency": "usd",
+                "unitAmount": 49999,
+                "quota": 200
+            }
+        }
+    },
+    {
+        "id": "api-business",
+        "pricingModelType": "Tier",
+        "recurring": {
+            "interval": "month",
+            "intervalCount": 1
+        },
+        "prices": {
+            "unit": {
+                "currency": "usd",
+                "unitAmount": 74999,
+                "quota": 250
+            }
+        }
+    },
+    {
         "id": "starter",
         "pricingModelType": "Tier",
         "recurring": {
@@ -41,36 +101,6 @@
                 "currency": "usd",
                 "unitAmount": 19999,
                 "quota": 150
-            }
-        }
-    },
-    {
-        "id": "businessplus",
-        "pricingModelType": "Tier",
-        "recurring": {
-            "interval": "month",
-            "intervalCount": 1
-        },
-        "prices": {
-            "unit": {
-                "currency": "usd",
-                "unitAmount": 49999,
-                "quota": 200
-            }
-        }
-    },
-    {
-        "id": "businessultra",
-        "pricingModelType": "Tier",
-        "recurring": {
-            "interval": "month",
-            "intervalCount": 1
-        },
-        "prices": {
-            "unit": {
-                "currency": "usd",
-                "unitAmount": 74999,
-                "quota": 250
             }
         }
     },
